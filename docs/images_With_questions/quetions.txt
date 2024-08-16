@@ -1,0 +1,43 @@
+1-2
+
+The left image has more slices than the right one
+Both images are of pizza
+Both images are the same kind of pizza
+
+3-4
+Both images are of dog
+The left image has 2 wolves while the right has one
+The no of wolves in the left image are more than that in the right
+
+5-5
+Both images are of the same bird
+The number of birds in the left image are same as that in the right image
+
+7-8
+The number of pandas in both the images are same
+The left and the right image have the same pandas
+
+9-10
+The dog on the left is happy while the dog on the right is sad
+
+11
+Is this kokum juice
+What is the taste of the liquid in the jar?
+
+12
+Do the parrots love each other?
+Which is male and which is female?
+
+13
+Who are the one staring at us?
+
+14
+Who is a good boy?
+
+15
+What is the name of the person in the picture
+Is the person safe for kids to hand around with
+
+
+
+What is t
